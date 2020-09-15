@@ -1,0 +1,21 @@
+### What is React?
+
+React is a JS library to build UI. It is noe a framework like Angular or Vue.
+
+### Why React?
+
+a) Build and managed by facebook
+b) Very large community support
+c) Uses Component based architecture.
+
+### Some advantages...
+
+a) Uses declarative approach( not imperative) : just takes the requirement(without much details) and no futher questioning 
+and gives the output.
+b) Reusability of code
+c) Component based app.
+d) DOM updates handled gracefully
+e) Speed of implementing application using react, simplicity and scalability hi very good.
+
+>> npm install -g create-react-app
+>> create-react-app <app_name>
